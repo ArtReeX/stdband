@@ -11,21 +11,19 @@ module.exports = function (config_module, nightmare_module, cheerio_module, log,
     // переход по ссылке
     nightmare_module_emulator.goto("http://" + String(config_module.site) + "/");
     
-    // получение страницы
-    nightmare_module_emulator.evaluate(function () { return document.body.innerHTML; });
+    // получение страницы и её обработка
+    nightmare_module_emulator.evaluate(function () { return document.body.innerHTML; }).then(function (html) {
         
-    // окончание эмуляции
-    nightmare_module_emulator.end(function (html) {
-        
-        // формированиестраницы для разбора
+        // отправка страницы в модуль для обработки
         $ = cheerio_module.load(html);
-
+        
         // добавление каждой ссылки в массив
-        $(".card > a").each(function (number, link) {
-            links.push($(link).attr("href"));
-        });
-
-        // возврата результата
+        $(".card > a").each(function (number, link) { links.push($(link).attr("href")); });
+        
+        // окончание эмуляции и 
+        nightmare_module_emulator.end().then(null);
+        
+        // возвращение результата
         callback(null, links);
         
     });

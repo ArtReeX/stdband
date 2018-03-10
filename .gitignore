@@ -1,1 +1,4 @@
 /server/logs/
+/server/node_modules
+
+*.bat

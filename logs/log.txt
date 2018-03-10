@@ -1,0 +1,438 @@
+[2017-11-30T21:37:16.063] [INFO] default - Начало получения ссылок на страницы с фильмами с сайта: stdband.ru
+[2017-11-30T21:37:19.519] [INFO] default - Было найдено 24 страниц с фильмами.
+[2017-11-30T21:37:19.521] [TRACE] default - [ 'https://stdband.ru/release/9-ballroom-e-youkoso.html',
+  'https://stdband.ru/release/164-the-running-heroes.html',
+  'https://stdband.ru/release/117-garo-vanishing-line.html',
+  'https://stdband.ru/release/75-nano-core-tv-3.html',
+  'https://stdband.ru/release/116-net-juu-no-susume.html',
+  'https://stdband.ru/release/133-inuyashiki.html',
+  'https://stdband.ru/release/160-while-you-were-sleeping.html',
+  'https://stdband.ru/release/180-kaitou-tenshi-twin-angel-kyun-kyun-tokimeki-paradise.html',
+  'https://stdband.ru/release/148-kujira-no-kora-wa-sajou-ni-utau.html',
+  'https://stdband.ru/release/155-mahou-tsukai-no-yome.html',
+  'https://stdband.ru/release/145-bloody-code-crimson-skies.html',
+  'https://stdband.ru/release/118-boku-no-kanojo-ga-majimesugiru-sho-bitch-na-ken.html',
+  'https://stdband.ru/release/173-honkai-impact-3-reburn-ona.html',
+  'https://stdband.ru/release/67-black-and-white-warriors-2.html',
+  'https://stdband.ru/release/36-kobayashi-san-chi-no-maid-dragon.html',
+  'https://stdband.ru/release/68-immortal-gu-hai.html',
+  'https://stdband.ru/release/147-fights-break-sphere-ova.html',
+  'https://stdband.ru/release/58-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.html',
+  'https://stdband.ru/release/79-recreators.html',
+  'https://stdband.ru/release/44-shingeki-no-bahamut-virgin-soul.html',
+  'https://stdband.ru/release/55-princess-principal.html',
+  'https://stdband.ru/release/115-kekkai-sensen-amp-beyond.html',
+  'https://stdband.ru/release/54-new-game.html',
+  'https://stdband.ru/release/69-little-door-gods.html' ]
+[2017-11-30T21:37:19.525] [INFO] default - Начало получения ссылок на фильмы с сайта: stdband.ru
+[2017-11-30T21:37:24.390] [TRACE] default - Найдено 21 серий.
+[2017-11-30T21:38:01.537] [INFO] default - Начало получения ссылок на страницы с фильмами с сайта: stdband.ru
+[2017-11-30T21:38:04.999] [INFO] default - Было найдено 24 страниц с фильмами.
+[2017-11-30T21:38:05.001] [TRACE] default - [ 'https://stdband.ru/release/9-ballroom-e-youkoso.html',
+  'https://stdband.ru/release/164-the-running-heroes.html',
+  'https://stdband.ru/release/117-garo-vanishing-line.html',
+  'https://stdband.ru/release/75-nano-core-tv-3.html',
+  'https://stdband.ru/release/116-net-juu-no-susume.html',
+  'https://stdband.ru/release/133-inuyashiki.html',
+  'https://stdband.ru/release/160-while-you-were-sleeping.html',
+  'https://stdband.ru/release/180-kaitou-tenshi-twin-angel-kyun-kyun-tokimeki-paradise.html',
+  'https://stdband.ru/release/148-kujira-no-kora-wa-sajou-ni-utau.html',
+  'https://stdband.ru/release/155-mahou-tsukai-no-yome.html',
+  'https://stdband.ru/release/145-bloody-code-crimson-skies.html',
+  'https://stdband.ru/release/118-boku-no-kanojo-ga-majimesugiru-sho-bitch-na-ken.html',
+  'https://stdband.ru/release/173-honkai-impact-3-reburn-ona.html',
+  'https://stdband.ru/release/67-black-and-white-warriors-2.html',
+  'https://stdband.ru/release/36-kobayashi-san-chi-no-maid-dragon.html',
+  'https://stdband.ru/release/68-immortal-gu-hai.html',
+  'https://stdband.ru/release/147-fights-break-sphere-ova.html',
+  'https://stdband.ru/release/58-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.html',
+  'https://stdband.ru/release/79-recreators.html',
+  'https://stdband.ru/release/44-shingeki-no-bahamut-virgin-soul.html',
+  'https://stdband.ru/release/55-princess-principal.html',
+  'https://stdband.ru/release/115-kekkai-sensen-amp-beyond.html',
+  'https://stdband.ru/release/54-new-game.html',
+  'https://stdband.ru/release/69-little-door-gods.html' ]
+[2017-11-30T21:38:05.005] [INFO] default - Начало получения ссылок на фильмы с сайта: stdband.ru
+[2017-11-30T21:38:09.305] [TRACE] default - Найдено 21 серий.
+[2017-11-30T21:38:11.746] [DEBUG] default - Обработан фильм 1 из 5.
+[2017-11-30T21:38:27.244] [INFO] default - Начало получения ссылок на страницы с фильмами с сайта: stdband.ru
+[2017-11-30T21:38:30.609] [INFO] default - Было найдено 24 страниц с фильмами.
+[2017-11-30T21:38:30.612] [TRACE] default - [ 'https://stdband.ru/release/9-ballroom-e-youkoso.html',
+  'https://stdband.ru/release/164-the-running-heroes.html',
+  'https://stdband.ru/release/117-garo-vanishing-line.html',
+  'https://stdband.ru/release/75-nano-core-tv-3.html',
+  'https://stdband.ru/release/116-net-juu-no-susume.html',
+  'https://stdband.ru/release/133-inuyashiki.html',
+  'https://stdband.ru/release/160-while-you-were-sleeping.html',
+  'https://stdband.ru/release/180-kaitou-tenshi-twin-angel-kyun-kyun-tokimeki-paradise.html',
+  'https://stdband.ru/release/148-kujira-no-kora-wa-sajou-ni-utau.html',
+  'https://stdband.ru/release/155-mahou-tsukai-no-yome.html',
+  'https://stdband.ru/release/145-bloody-code-crimson-skies.html',
+  'https://stdband.ru/release/118-boku-no-kanojo-ga-majimesugiru-sho-bitch-na-ken.html',
+  'https://stdband.ru/release/173-honkai-impact-3-reburn-ona.html',
+  'https://stdband.ru/release/67-black-and-white-warriors-2.html',
+  'https://stdband.ru/release/36-kobayashi-san-chi-no-maid-dragon.html',
+  'https://stdband.ru/release/68-immortal-gu-hai.html',
+  'https://stdband.ru/release/147-fights-break-sphere-ova.html',
+  'https://stdband.ru/release/58-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.html',
+  'https://stdband.ru/release/79-recreators.html',
+  'https://stdband.ru/release/44-shingeki-no-bahamut-virgin-soul.html',
+  'https://stdband.ru/release/55-princess-principal.html',
+  'https://stdband.ru/release/115-kekkai-sensen-amp-beyond.html',
+  'https://stdband.ru/release/54-new-game.html',
+  'https://stdband.ru/release/69-little-door-gods.html' ]
+[2017-11-30T21:38:30.616] [INFO] default - Начало получения ссылок на фильмы с сайта: stdband.ru
+[2017-11-30T21:38:34.871] [TRACE] default - Найдено 21 серий.
+[2017-11-30T21:38:34.899] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:38:34.899] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:38:34.900] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:38:34.901] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:38:34.901] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:38:34.903] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:38:34.903] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:38:34.904] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:38:34.904] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:38:34.905] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:38:34.905] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:38:34.905] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:38:34.905] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:38:34.906] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:38:34.906] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:39:01.354] [INFO] default - Начало получения ссылок на страницы с фильмами с сайта: stdband.ru
+[2017-11-30T21:39:04.721] [INFO] default - Было найдено 24 страниц с фильмами.
+[2017-11-30T21:39:04.724] [TRACE] default - [ 'https://stdband.ru/release/9-ballroom-e-youkoso.html',
+  'https://stdband.ru/release/164-the-running-heroes.html',
+  'https://stdband.ru/release/117-garo-vanishing-line.html',
+  'https://stdband.ru/release/75-nano-core-tv-3.html',
+  'https://stdband.ru/release/116-net-juu-no-susume.html',
+  'https://stdband.ru/release/133-inuyashiki.html',
+  'https://stdband.ru/release/160-while-you-were-sleeping.html',
+  'https://stdband.ru/release/180-kaitou-tenshi-twin-angel-kyun-kyun-tokimeki-paradise.html',
+  'https://stdband.ru/release/148-kujira-no-kora-wa-sajou-ni-utau.html',
+  'https://stdband.ru/release/155-mahou-tsukai-no-yome.html',
+  'https://stdband.ru/release/145-bloody-code-crimson-skies.html',
+  'https://stdband.ru/release/118-boku-no-kanojo-ga-majimesugiru-sho-bitch-na-ken.html',
+  'https://stdband.ru/release/173-honkai-impact-3-reburn-ona.html',
+  'https://stdband.ru/release/67-black-and-white-warriors-2.html',
+  'https://stdband.ru/release/36-kobayashi-san-chi-no-maid-dragon.html',
+  'https://stdband.ru/release/68-immortal-gu-hai.html',
+  'https://stdband.ru/release/147-fights-break-sphere-ova.html',
+  'https://stdband.ru/release/58-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.html',
+  'https://stdband.ru/release/79-recreators.html',
+  'https://stdband.ru/release/44-shingeki-no-bahamut-virgin-soul.html',
+  'https://stdband.ru/release/55-princess-principal.html',
+  'https://stdband.ru/release/115-kekkai-sensen-amp-beyond.html',
+  'https://stdband.ru/release/54-new-game.html',
+  'https://stdband.ru/release/69-little-door-gods.html' ]
+[2017-11-30T21:39:04.729] [INFO] default - Начало получения ссылок на фильмы с сайта: stdband.ru
+[2017-11-30T21:39:09.107] [TRACE] default - Найдено 21 серий.
+[2017-11-30T21:39:09.134] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:39:09.135] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:39:09.136] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:39:09.136] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:39:09.137] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:39:09.137] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:39:09.138] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:39:09.139] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:39:09.139] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:39:09.140] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:39:09.140] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:39:09.140] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:39:09.141] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:39:09.141] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:39:09.141] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:39:09.142] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:39:29.678] [INFO] default - Начало получения ссылок на страницы с фильмами с сайта: stdband.ru
+[2017-11-30T21:39:33.081] [INFO] default - Было найдено 24 страниц с фильмами.
+[2017-11-30T21:39:33.083] [TRACE] default - [ 'https://stdband.ru/release/9-ballroom-e-youkoso.html',
+  'https://stdband.ru/release/164-the-running-heroes.html',
+  'https://stdband.ru/release/117-garo-vanishing-line.html',
+  'https://stdband.ru/release/75-nano-core-tv-3.html',
+  'https://stdband.ru/release/116-net-juu-no-susume.html',
+  'https://stdband.ru/release/133-inuyashiki.html',
+  'https://stdband.ru/release/160-while-you-were-sleeping.html',
+  'https://stdband.ru/release/180-kaitou-tenshi-twin-angel-kyun-kyun-tokimeki-paradise.html',
+  'https://stdband.ru/release/148-kujira-no-kora-wa-sajou-ni-utau.html',
+  'https://stdband.ru/release/155-mahou-tsukai-no-yome.html',
+  'https://stdband.ru/release/145-bloody-code-crimson-skies.html',
+  'https://stdband.ru/release/118-boku-no-kanojo-ga-majimesugiru-sho-bitch-na-ken.html',
+  'https://stdband.ru/release/173-honkai-impact-3-reburn-ona.html',
+  'https://stdband.ru/release/67-black-and-white-warriors-2.html',
+  'https://stdband.ru/release/36-kobayashi-san-chi-no-maid-dragon.html',
+  'https://stdband.ru/release/68-immortal-gu-hai.html',
+  'https://stdband.ru/release/147-fights-break-sphere-ova.html',
+  'https://stdband.ru/release/58-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.html',
+  'https://stdband.ru/release/79-recreators.html',
+  'https://stdband.ru/release/44-shingeki-no-bahamut-virgin-soul.html',
+  'https://stdband.ru/release/55-princess-principal.html',
+  'https://stdband.ru/release/115-kekkai-sensen-amp-beyond.html',
+  'https://stdband.ru/release/54-new-game.html',
+  'https://stdband.ru/release/69-little-door-gods.html' ]
+[2017-11-30T21:39:33.086] [INFO] default - Начало получения ссылок на фильмы с сайта: stdband.ru
+[2017-11-30T21:39:37.359] [TRACE] default - Найдено 21 серий.
+[2017-11-30T21:39:37.387] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:39:37.388] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:39:37.388] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:39:37.389] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:39:37.389] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:39:37.391] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:39:37.391] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:39:37.392] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:39:37.392] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:40:18.260] [INFO] default - Начало получения ссылок на страницы с фильмами с сайта: stdband.ru
+[2017-11-30T21:40:21.779] [INFO] default - Было найдено 24 страниц с фильмами.
+[2017-11-30T21:40:21.781] [TRACE] default - [ 'https://stdband.ru/release/9-ballroom-e-youkoso.html',
+  'https://stdband.ru/release/164-the-running-heroes.html',
+  'https://stdband.ru/release/117-garo-vanishing-line.html',
+  'https://stdband.ru/release/75-nano-core-tv-3.html',
+  'https://stdband.ru/release/116-net-juu-no-susume.html',
+  'https://stdband.ru/release/133-inuyashiki.html',
+  'https://stdband.ru/release/160-while-you-were-sleeping.html',
+  'https://stdband.ru/release/180-kaitou-tenshi-twin-angel-kyun-kyun-tokimeki-paradise.html',
+  'https://stdband.ru/release/148-kujira-no-kora-wa-sajou-ni-utau.html',
+  'https://stdband.ru/release/155-mahou-tsukai-no-yome.html',
+  'https://stdband.ru/release/145-bloody-code-crimson-skies.html',
+  'https://stdband.ru/release/118-boku-no-kanojo-ga-majimesugiru-sho-bitch-na-ken.html',
+  'https://stdband.ru/release/173-honkai-impact-3-reburn-ona.html',
+  'https://stdband.ru/release/67-black-and-white-warriors-2.html',
+  'https://stdband.ru/release/36-kobayashi-san-chi-no-maid-dragon.html',
+  'https://stdband.ru/release/68-immortal-gu-hai.html',
+  'https://stdband.ru/release/147-fights-break-sphere-ova.html',
+  'https://stdband.ru/release/58-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.html',
+  'https://stdband.ru/release/79-recreators.html',
+  'https://stdband.ru/release/44-shingeki-no-bahamut-virgin-soul.html',
+  'https://stdband.ru/release/55-princess-principal.html',
+  'https://stdband.ru/release/115-kekkai-sensen-amp-beyond.html',
+  'https://stdband.ru/release/54-new-game.html',
+  'https://stdband.ru/release/69-little-door-gods.html' ]
+[2017-11-30T21:40:21.784] [INFO] default - Начало получения ссылок на фильмы с сайта: stdband.ru
+[2017-11-30T21:40:26.226] [TRACE] default - Найдено 21 серий.
+[2017-11-30T21:40:26.257] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:40:26.258] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:40:26.259] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:40:26.260] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:40:26.261] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:40:26.262] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:40:26.264] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:40:26.264] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:40:26.264] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:40:26.265] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:40:26.265] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:40:26.266] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:40:26.266] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:40:26.266] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:40:26.268] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:40:26.269] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:40:26.270] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:40:26.270] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:40:26.271] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:40:26.271] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:40:26.272] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:49:18.998] [INFO] default - Начало получения ссылок на страницы с фильмами с сайта: stdband.ru
+[2017-11-30T21:49:22.816] [INFO] default - Было найдено 24 страниц с фильмами.
+[2017-11-30T21:49:22.818] [TRACE] default - [ 'https://stdband.ru/release/9-ballroom-e-youkoso.html',
+  'https://stdband.ru/release/164-the-running-heroes.html',
+  'https://stdband.ru/release/117-garo-vanishing-line.html',
+  'https://stdband.ru/release/75-nano-core-tv-3.html',
+  'https://stdband.ru/release/116-net-juu-no-susume.html',
+  'https://stdband.ru/release/133-inuyashiki.html',
+  'https://stdband.ru/release/160-while-you-were-sleeping.html',
+  'https://stdband.ru/release/180-kaitou-tenshi-twin-angel-kyun-kyun-tokimeki-paradise.html',
+  'https://stdband.ru/release/148-kujira-no-kora-wa-sajou-ni-utau.html',
+  'https://stdband.ru/release/155-mahou-tsukai-no-yome.html',
+  'https://stdband.ru/release/145-bloody-code-crimson-skies.html',
+  'https://stdband.ru/release/118-boku-no-kanojo-ga-majimesugiru-sho-bitch-na-ken.html',
+  'https://stdband.ru/release/173-honkai-impact-3-reburn-ona.html',
+  'https://stdband.ru/release/67-black-and-white-warriors-2.html',
+  'https://stdband.ru/release/36-kobayashi-san-chi-no-maid-dragon.html',
+  'https://stdband.ru/release/68-immortal-gu-hai.html',
+  'https://stdband.ru/release/147-fights-break-sphere-ova.html',
+  'https://stdband.ru/release/58-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.html',
+  'https://stdband.ru/release/79-recreators.html',
+  'https://stdband.ru/release/44-shingeki-no-bahamut-virgin-soul.html',
+  'https://stdband.ru/release/55-princess-principal.html',
+  'https://stdband.ru/release/115-kekkai-sensen-amp-beyond.html',
+  'https://stdband.ru/release/54-new-game.html',
+  'https://stdband.ru/release/69-little-door-gods.html' ]
+[2017-11-30T21:49:22.821] [INFO] default - Начало получения ссылок на фильмы с сайта: stdband.ru
+[2017-11-30T21:49:27.691] [TRACE] default - Найдено 21 серий.
+[2017-11-30T21:49:27.719] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:49:27.721] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:49:27.722] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:49:27.722] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:49:27.723] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:49:27.724] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:49:27.724] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:49:27.724] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:49:27.725] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:49:27.726] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:49:27.726] [WARN] default - Элемент #play_button отсутствует на странице.
+[2017-11-30T21:52:47.408] [INFO] default - Начало получения ссылок на страницы с фильмами с сайта: stdband.ru
+[2017-11-30T21:52:51.057] [INFO] default - Было найдено 24 страниц с фильмами.
+[2017-11-30T21:52:51.059] [TRACE] default - [ 'https://stdband.ru/release/9-ballroom-e-youkoso.html',
+  'https://stdband.ru/release/164-the-running-heroes.html',
+  'https://stdband.ru/release/117-garo-vanishing-line.html',
+  'https://stdband.ru/release/75-nano-core-tv-3.html',
+  'https://stdband.ru/release/116-net-juu-no-susume.html',
+  'https://stdband.ru/release/133-inuyashiki.html',
+  'https://stdband.ru/release/160-while-you-were-sleeping.html',
+  'https://stdband.ru/release/180-kaitou-tenshi-twin-angel-kyun-kyun-tokimeki-paradise.html',
+  'https://stdband.ru/release/148-kujira-no-kora-wa-sajou-ni-utau.html',
+  'https://stdband.ru/release/155-mahou-tsukai-no-yome.html',
+  'https://stdband.ru/release/145-bloody-code-crimson-skies.html',
+  'https://stdband.ru/release/118-boku-no-kanojo-ga-majimesugiru-sho-bitch-na-ken.html',
+  'https://stdband.ru/release/173-honkai-impact-3-reburn-ona.html',
+  'https://stdband.ru/release/67-black-and-white-warriors-2.html',
+  'https://stdband.ru/release/36-kobayashi-san-chi-no-maid-dragon.html',
+  'https://stdband.ru/release/68-immortal-gu-hai.html',
+  'https://stdband.ru/release/147-fights-break-sphere-ova.html',
+  'https://stdband.ru/release/58-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.html',
+  'https://stdband.ru/release/79-recreators.html',
+  'https://stdband.ru/release/44-shingeki-no-bahamut-virgin-soul.html',
+  'https://stdband.ru/release/55-princess-principal.html',
+  'https://stdband.ru/release/115-kekkai-sensen-amp-beyond.html',
+  'https://stdband.ru/release/54-new-game.html',
+  'https://stdband.ru/release/69-little-door-gods.html' ]
+[2017-11-30T21:52:51.064] [INFO] default - Начало получения ссылок на фильмы с сайта: stdband.ru
+[2017-11-30T21:52:55.584] [TRACE] default - Найдено 21 серий.
+[2017-11-30T21:55:45.051] [INFO] default - Начало получения ссылок на страницы с фильмами с сайта: stdband.ru
+[2017-11-30T21:55:48.465] [INFO] default - Было найдено 24 страниц с фильмами.
+[2017-11-30T21:55:48.468] [TRACE] default - [ 'https://stdband.ru/release/9-ballroom-e-youkoso.html',
+  'https://stdband.ru/release/164-the-running-heroes.html',
+  'https://stdband.ru/release/117-garo-vanishing-line.html',
+  'https://stdband.ru/release/75-nano-core-tv-3.html',
+  'https://stdband.ru/release/116-net-juu-no-susume.html',
+  'https://stdband.ru/release/133-inuyashiki.html',
+  'https://stdband.ru/release/160-while-you-were-sleeping.html',
+  'https://stdband.ru/release/180-kaitou-tenshi-twin-angel-kyun-kyun-tokimeki-paradise.html',
+  'https://stdband.ru/release/148-kujira-no-kora-wa-sajou-ni-utau.html',
+  'https://stdband.ru/release/155-mahou-tsukai-no-yome.html',
+  'https://stdband.ru/release/145-bloody-code-crimson-skies.html',
+  'https://stdband.ru/release/118-boku-no-kanojo-ga-majimesugiru-sho-bitch-na-ken.html',
+  'https://stdband.ru/release/173-honkai-impact-3-reburn-ona.html',
+  'https://stdband.ru/release/67-black-and-white-warriors-2.html',
+  'https://stdband.ru/release/36-kobayashi-san-chi-no-maid-dragon.html',
+  'https://stdband.ru/release/68-immortal-gu-hai.html',
+  'https://stdband.ru/release/147-fights-break-sphere-ova.html',
+  'https://stdband.ru/release/58-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.html',
+  'https://stdband.ru/release/79-recreators.html',
+  'https://stdband.ru/release/44-shingeki-no-bahamut-virgin-soul.html',
+  'https://stdband.ru/release/55-princess-principal.html',
+  'https://stdband.ru/release/115-kekkai-sensen-amp-beyond.html',
+  'https://stdband.ru/release/54-new-game.html',
+  'https://stdband.ru/release/69-little-door-gods.html' ]
+[2017-11-30T21:55:48.473] [INFO] default - Начало получения ссылок на фильмы с сайта: stdband.ru
+[2017-11-30T21:55:52.868] [TRACE] default - Найдено 21 серий.
+[2017-11-30T21:56:15.015] [INFO] default - Начало получения ссылок на страницы с фильмами с сайта: stdband.ru
+[2017-11-30T21:56:18.492] [INFO] default - Было найдено 24 страниц с фильмами.
+[2017-11-30T21:56:18.496] [TRACE] default - [ 'https://stdband.ru/release/9-ballroom-e-youkoso.html',
+  'https://stdband.ru/release/164-the-running-heroes.html',
+  'https://stdband.ru/release/117-garo-vanishing-line.html',
+  'https://stdband.ru/release/75-nano-core-tv-3.html',
+  'https://stdband.ru/release/116-net-juu-no-susume.html',
+  'https://stdband.ru/release/133-inuyashiki.html',
+  'https://stdband.ru/release/160-while-you-were-sleeping.html',
+  'https://stdband.ru/release/180-kaitou-tenshi-twin-angel-kyun-kyun-tokimeki-paradise.html',
+  'https://stdband.ru/release/148-kujira-no-kora-wa-sajou-ni-utau.html',
+  'https://stdband.ru/release/155-mahou-tsukai-no-yome.html',
+  'https://stdband.ru/release/145-bloody-code-crimson-skies.html',
+  'https://stdband.ru/release/118-boku-no-kanojo-ga-majimesugiru-sho-bitch-na-ken.html',
+  'https://stdband.ru/release/173-honkai-impact-3-reburn-ona.html',
+  'https://stdband.ru/release/67-black-and-white-warriors-2.html',
+  'https://stdband.ru/release/36-kobayashi-san-chi-no-maid-dragon.html',
+  'https://stdband.ru/release/68-immortal-gu-hai.html',
+  'https://stdband.ru/release/147-fights-break-sphere-ova.html',
+  'https://stdband.ru/release/58-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.html',
+  'https://stdband.ru/release/79-recreators.html',
+  'https://stdband.ru/release/44-shingeki-no-bahamut-virgin-soul.html',
+  'https://stdband.ru/release/55-princess-principal.html',
+  'https://stdband.ru/release/115-kekkai-sensen-amp-beyond.html',
+  'https://stdband.ru/release/54-new-game.html',
+  'https://stdband.ru/release/69-little-door-gods.html' ]
+[2017-11-30T21:56:18.500] [INFO] default - Начало получения ссылок на фильмы с сайта: stdband.ru
+[2017-11-30T21:56:22.712] [TRACE] default - Найдено 21 серий.
+[2017-11-30T21:56:40.592] [INFO] default - Начало получения ссылок на страницы с фильмами с сайта: stdband.ru
+[2017-11-30T21:56:43.917] [INFO] default - Было найдено 24 страниц с фильмами.
+[2017-11-30T21:56:43.920] [TRACE] default - [ 'https://stdband.ru/release/9-ballroom-e-youkoso.html',
+  'https://stdband.ru/release/164-the-running-heroes.html',
+  'https://stdband.ru/release/117-garo-vanishing-line.html',
+  'https://stdband.ru/release/75-nano-core-tv-3.html',
+  'https://stdband.ru/release/116-net-juu-no-susume.html',
+  'https://stdband.ru/release/133-inuyashiki.html',
+  'https://stdband.ru/release/160-while-you-were-sleeping.html',
+  'https://stdband.ru/release/180-kaitou-tenshi-twin-angel-kyun-kyun-tokimeki-paradise.html',
+  'https://stdband.ru/release/148-kujira-no-kora-wa-sajou-ni-utau.html',
+  'https://stdband.ru/release/155-mahou-tsukai-no-yome.html',
+  'https://stdband.ru/release/145-bloody-code-crimson-skies.html',
+  'https://stdband.ru/release/118-boku-no-kanojo-ga-majimesugiru-sho-bitch-na-ken.html',
+  'https://stdband.ru/release/173-honkai-impact-3-reburn-ona.html',
+  'https://stdband.ru/release/67-black-and-white-warriors-2.html',
+  'https://stdband.ru/release/36-kobayashi-san-chi-no-maid-dragon.html',
+  'https://stdband.ru/release/68-immortal-gu-hai.html',
+  'https://stdband.ru/release/147-fights-break-sphere-ova.html',
+  'https://stdband.ru/release/58-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.html',
+  'https://stdband.ru/release/79-recreators.html',
+  'https://stdband.ru/release/44-shingeki-no-bahamut-virgin-soul.html',
+  'https://stdband.ru/release/55-princess-principal.html',
+  'https://stdband.ru/release/115-kekkai-sensen-amp-beyond.html',
+  'https://stdband.ru/release/54-new-game.html',
+  'https://stdband.ru/release/69-little-door-gods.html' ]
+[2017-11-30T21:56:43.922] [INFO] default - Начало получения ссылок на фильмы с сайта: stdband.ru
+[2017-11-30T21:56:48.968] [TRACE] default - Найдено 21 серий.
+[2017-11-30T21:57:49.921] [INFO] default - Начало получения ссылок на страницы с фильмами с сайта: stdband.ru
+[2017-11-30T21:57:53.297] [INFO] default - Было найдено 24 страниц с фильмами.
+[2017-11-30T21:57:53.300] [TRACE] default - [ 'https://stdband.ru/release/9-ballroom-e-youkoso.html',
+  'https://stdband.ru/release/164-the-running-heroes.html',
+  'https://stdband.ru/release/117-garo-vanishing-line.html',
+  'https://stdband.ru/release/75-nano-core-tv-3.html',
+  'https://stdband.ru/release/116-net-juu-no-susume.html',
+  'https://stdband.ru/release/133-inuyashiki.html',
+  'https://stdband.ru/release/160-while-you-were-sleeping.html',
+  'https://stdband.ru/release/180-kaitou-tenshi-twin-angel-kyun-kyun-tokimeki-paradise.html',
+  'https://stdband.ru/release/148-kujira-no-kora-wa-sajou-ni-utau.html',
+  'https://stdband.ru/release/155-mahou-tsukai-no-yome.html',
+  'https://stdband.ru/release/145-bloody-code-crimson-skies.html',
+  'https://stdband.ru/release/118-boku-no-kanojo-ga-majimesugiru-sho-bitch-na-ken.html',
+  'https://stdband.ru/release/173-honkai-impact-3-reburn-ona.html',
+  'https://stdband.ru/release/67-black-and-white-warriors-2.html',
+  'https://stdband.ru/release/36-kobayashi-san-chi-no-maid-dragon.html',
+  'https://stdband.ru/release/68-immortal-gu-hai.html',
+  'https://stdband.ru/release/147-fights-break-sphere-ova.html',
+  'https://stdband.ru/release/58-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.html',
+  'https://stdband.ru/release/79-recreators.html',
+  'https://stdband.ru/release/44-shingeki-no-bahamut-virgin-soul.html',
+  'https://stdband.ru/release/55-princess-principal.html',
+  'https://stdband.ru/release/115-kekkai-sensen-amp-beyond.html',
+  'https://stdband.ru/release/54-new-game.html',
+  'https://stdband.ru/release/69-little-door-gods.html' ]
+[2017-11-30T21:57:53.304] [INFO] default - Начало получения ссылок на фильмы с сайта: stdband.ru
+[2017-11-30T21:57:57.932] [TRACE] default - Найдено 21 серий.
+[2017-11-30T21:59:07.612] [INFO] default - Начало получения ссылок на страницы с фильмами с сайта: stdband.ru
+[2017-11-30T21:59:11.131] [INFO] default - Было найдено 24 страниц с фильмами.
+[2017-11-30T21:59:11.133] [TRACE] default - [ 'https://stdband.ru/release/9-ballroom-e-youkoso.html',
+  'https://stdband.ru/release/164-the-running-heroes.html',
+  'https://stdband.ru/release/117-garo-vanishing-line.html',
+  'https://stdband.ru/release/75-nano-core-tv-3.html',
+  'https://stdband.ru/release/116-net-juu-no-susume.html',
+  'https://stdband.ru/release/133-inuyashiki.html',
+  'https://stdband.ru/release/160-while-you-were-sleeping.html',
+  'https://stdband.ru/release/180-kaitou-tenshi-twin-angel-kyun-kyun-tokimeki-paradise.html',
+  'https://stdband.ru/release/148-kujira-no-kora-wa-sajou-ni-utau.html',
+  'https://stdband.ru/release/155-mahou-tsukai-no-yome.html',
+  'https://stdband.ru/release/145-bloody-code-crimson-skies.html',
+  'https://stdband.ru/release/118-boku-no-kanojo-ga-majimesugiru-sho-bitch-na-ken.html',
+  'https://stdband.ru/release/173-honkai-impact-3-reburn-ona.html',
+  'https://stdband.ru/release/67-black-and-white-warriors-2.html',
+  'https://stdband.ru/release/36-kobayashi-san-chi-no-maid-dragon.html',
+  'https://stdband.ru/release/68-immortal-gu-hai.html',
+  'https://stdband.ru/release/147-fights-break-sphere-ova.html',
+  'https://stdband.ru/release/58-youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e.html',
+  'https://stdband.ru/release/79-recreators.html',
+  'https://stdband.ru/release/44-shingeki-no-bahamut-virgin-soul.html',
+  'https://stdband.ru/release/55-princess-principal.html',
+  'https://stdband.ru/release/115-kekkai-sensen-amp-beyond.html',
+  'https://stdband.ru/release/54-new-game.html',
+  'https://stdband.ru/release/69-little-door-gods.html' ]
+[2017-11-30T21:59:11.139] [INFO] default - Начало получения ссылок на фильмы с сайта: stdband.ru
+[2017-11-30T21:59:15.357] [TRACE] default - Найдено 21 серий.
+[2017-11-30T22:00:28.096] [DEBUG] default - Обработан фильм 1 из 5.

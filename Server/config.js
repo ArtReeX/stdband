@@ -35,7 +35,8 @@ var config = {
     filter: {
         
         "response": ["manifest_mp4.json"],
-        "button_play": "#play_button"
+        "button_play": "#play_button",
+        "selector_episodes": "#episodes_selector"
     
     },
     
